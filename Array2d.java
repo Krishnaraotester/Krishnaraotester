@@ -2,7 +2,7 @@ class Array2d
   {
 public static void main(String args[])
     {
-	int[][] x={{10,20,},{30,40,},{1,2},{3,4}};
+	int[][] x={{1000,20,},{300,400,},{1,2},{3,4}};
 	for(int i=0;i<x.length;i++)
 	{
 	for(int j=0; j<2; j++)
