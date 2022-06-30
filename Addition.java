@@ -7,7 +7,7 @@ int y;
 int z;
 
 x=1565;
-y=50;
+y=520;
 z=x+y;
 System.out.println("The value of x   "+x);
 System.out.println("The value of y   "+y);
